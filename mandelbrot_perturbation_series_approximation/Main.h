@@ -1,0 +1,2 @@
+void createAnimation();
+void panning();

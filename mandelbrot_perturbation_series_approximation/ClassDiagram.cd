@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="mandelbrot::Mandelbrot">
+    <Position X="3.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ISAMAFCABVpiAAAhJAAGgggAAAgBBBABgIBgQEgAUEA=</HashCode>
+      <FileName>Mandelbrot.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="mandelbrot::Color">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Mandelbrot.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="mandelbrot::BitmapFileHeader">
+    <Position X="13.25" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAIAIAAAAAAAAAAAAAAAwAAAAAAAAA=</HashCode>
+      <FileName>Mandelbrot.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="mandelbrot::BitmapInfoHeader">
+    <Position X="11" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAQJAAAAAAAAMAA0AAAAABAAAAACA=</HashCode>
+      <FileName>Mandelbrot.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="mandelbrot::u_char" Collapsed="true">
+    <Position X="15.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mandelbrot.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

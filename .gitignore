@@ -230,3 +230,10 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+
+
+
+#####
+mandelbrot_renderer/*.dll
+.vs

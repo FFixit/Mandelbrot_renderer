@@ -1,5 +1,0 @@
-- check integer/double conversions
-
-- ceck pointer arithmetic -> implicit multiplication might be replacable with shift operations
-
-- log files

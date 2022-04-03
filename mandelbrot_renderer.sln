@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mandelbrot", "mandelbrot_perturbation_series_approximation\mandelbrot.vcxproj", "{FED4ED63-DF3A-49B8-BF0D-4EF26C1D5031}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mandelbrot", "mandelbrot_renderer\mandelbrot.vcxproj", "{FED4ED63-DF3A-49B8-BF0D-4EF26C1D5031}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A5FCC816-88FD-4A2E-98FB-883F9F9D0DF0}"
 	ProjectSection(SolutionItems) = preProject
-		TODO.txt = TODO.txt
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global
@@ -29,5 +29,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39216186-4C01-4853-BD54-517797EF7ABE}
 	EndGlobalSection
 EndGlobal

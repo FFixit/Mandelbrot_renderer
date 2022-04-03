@@ -435,7 +435,7 @@ namespace mandelbrot
 	}
 
 
-	// stack based flood-fill algorithm to determine the area if a glitched region around the point P(x, y)
+	// stack based flood-fill algorithm to determine the area of a glitched region around the point P(x, y)
 	// this also finds the minimum/maximum x/y-values of the area
 	size_t Mandelbrot::getArea(size_t x, size_t y, uint32_t iteration)
 	{
